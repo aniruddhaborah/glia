@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad
 {
+    UIImageView *img;
+    UIImageView *img2;
+    UIImageView *img3;
+    
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
